@@ -2,7 +2,7 @@
 
 ## My name is Aguziendu Ugochukwu
 
-### I am currently a Full-Stack Software Engineer and aspiring Devops and Security Specialist 
+### I am currently a Full-Stack Software Engineer and aspiring Devops and Security enthusiast with a passion for videogames.
 
 <br />
 
@@ -11,13 +11,13 @@
 
 <br />
 
-#### Technology Stack
+#### Stats & Technology Stack
 
 <p>
   <!-- <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=iamug&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/> -->
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamug&langs_count=10&layout=compact&theme=dark"/>
   <p>
-    <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
+<img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
 <img alt="Nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />   
 <!-- <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" /> -->
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
