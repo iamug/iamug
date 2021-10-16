@@ -13,20 +13,12 @@
 
 ### Stats
 
-<table border="0">
-<tr>
-    <td>![Ugochukwu's github stats](https://github-readme-stats.vercel.app/api?username=iamug&count_private=true&hide=contribs,issues,prs&show_icons=true&theme=radical)</td>
-    <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamug&layout=compact&theme=radical)</td>
-</tr>
-</table>
+
 
 <div style="display:flex;">
 <p align="left">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
-</p>
-<p align="right">
-
+<img src="https://github-readme-stats.vercel.app/api?username=iamug&count_private=true&hide=contribs,issues,prs&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamug&layout=compact&theme=radical"/>
 </p>
 </div>
 
