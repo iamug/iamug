@@ -3,14 +3,16 @@
 ## My name is Aguziendu Ugochukwu
 
 ### I am currently a Full-Stack Software Engineer and aspiring Devops and Security Specialist 
+#
 
 #### Connect With Me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aguziendu-ugochukwu/)    
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aguziendu-ugochukwu/)       [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />]
+#
 
 #### Technology Stack
 <p>
-  <img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
+<img alt="Javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
 <img alt="Nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />   
 <!-- <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" /> -->
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
@@ -38,14 +40,13 @@
 <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-
-
+#
 
 #### Stats
 <div style="display:flex;">
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=iamug&count_private=true&hide=contribs,issues,prs&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamug&layout=compact&theme=radical"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=iamug&count_private=true&hide=contribs,issues,prs&show_icons=true&theme=radical"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamug&langs_count=8&layout=compact&theme=dark"/>
 </p>
 </div>
 
@@ -53,9 +54,7 @@
 
 <!--
 **iamug/iamug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently and always learning new things.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
