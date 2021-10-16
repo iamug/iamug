@@ -31,8 +31,8 @@
 <img alt="Sass" src="https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />   
 <img alt="PHP" src="https://img.shields.io/badge/-php-394989?style=for-the-badge&logo=php&logoColor=white" />   
 <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-0073aa?style=for-the-badge&logo=wordpress&logoColor=white" />   
-<img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /> 
 <!-- <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />    -->
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
