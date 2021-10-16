@@ -1,15 +1,15 @@
-#### Hi there 👋
 
-## My name is Aguziendu Ugochukwu
+## Hi there 👋 My name is Aguziendu Ugochukwu
 
 ### I am currently a Full-Stack Software Engineer and aspiring Devops and Security enthusiast with a passion for videogames.
 
 <br />
 
 #### Connect With Me
+<p>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aguziendu-ugochukwu/)    
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://iamug.github.io/portfolio-v1/)    
-
+</p>
 <br />
 
 #### Stats & Technology Stack
