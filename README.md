@@ -3,12 +3,13 @@
 ## My name is Aguziendu Ugochukwu
 
 ### I am currently a Full-Stack Software Engineer and aspiring Devops and Security Specialist 
-#
+
+<br />
 
 #### Connect With Me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aguziendu-ugochukwu/)    
 
-<br /><br />
+<br />
 
 #### Technology Stack
 <p>
@@ -40,13 +41,13 @@
 <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
-<br /><br />
+<br />
 
 #### Stats
 <div style="display:flex;">
 <p align="left">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=iamug&count_private=true&hide=contribs,issues,prs&show_icons=true&theme=radical"/> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamug&langs_count=8&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamug&langs_count=10&layout=compact&theme=dark"/>
 </p>
 </div>
 
