@@ -1,5 +1,5 @@
 
-## Hi there 👋 My name is Aguziendu Ugochukwu
+# Hi there 👋 My name is Aguziendu Ugochukwu
 
 ### I am currently a Full-Stack Software Engineer and aspiring Devops and Security enthusiast with a passion for videogames.
 
