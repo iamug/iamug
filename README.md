@@ -3,7 +3,7 @@
 
 ### I am currently a Full-Stack Software Engineer and aspiring Devops and Security enthusiast with a passion for videogames.
 
-<br />
+<br /><br />
 
 #### Connect With Me
 <p>
