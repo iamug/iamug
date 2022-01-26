@@ -11,7 +11,7 @@
  <a href="https://www.linkedin.com/in/aguziendu-ugochukwu/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://iamug.github.io/portfolio-v1/">
+  <a href="https://iamug.github.io/Portfolio-v2/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />        
   </a>&nbsp;&nbsp;   
 </p>
